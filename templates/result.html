@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendation Results</title>
+</head>
+<body>
+    <h1>Recommendations for "{{ movie_name }}"</h1>   <!--dynmaically displays the name of the movie that user enters-->
+    {% if recommendations == "Movie not found in the dataset." %}
+        <p>{{ recommendations }}</p>
+    {% else %}
+        <ul>
+        {% for rec in recommendations %}
+            <li>{{ rec }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    <a href="/">Back</a> <!--This is to go back to the home page-->
+</body>
+</html>
