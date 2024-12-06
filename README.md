@@ -65,5 +65,7 @@ The top 5 similar movies are displayed on the web page, allowing the user to exp
 
 ![Example Image](https://github.com/VikyathShetty/Recommendation_Movies/blob/main/images/Screenshot%202024-12-06%20175628.png)
 
+![Another Image](https://github.com/VikyathShetty/Recommendation_Movies/blob/main/images/Screenshot%202024-12-06%20175643.png)
+
 
 
