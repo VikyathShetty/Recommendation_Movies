@@ -50,3 +50,16 @@ Top 5 Similar Movies
 For each movie, the top 5 most similar movies were retrieved and displayed.
 
 
+### Flask-based web application 
+
+Movie Input
+
+The user submits the name of a movie through the Flask web interface.
+Retrieve Similar Movie Names
+
+Using the pre-computed cosine similarity scores, the system identifies the top 5 movies most similar to the input movie.
+Display Results
+
+The top 5 similar movies are displayed on the web page, allowing the user to explore recommendations effortlessly.
+
+
