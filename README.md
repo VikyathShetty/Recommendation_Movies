@@ -33,3 +33,20 @@ Documents were represented as vectors based on the frequency or presence of word
 Stop words were removed to retain only meaningful and relevant text data, improving the quality of the analysis.
 
 
+### Cosine Similarity Calculation
+
+Cosine similarity was used to compare each movie with all other movies in the dataset.
+This technique represents the similarity score in vector format, where:
+A value of 1 indicates the most similar movies.
+A value of 0 indicates the least similar movies.
+
+
+### Similarity Index
+
+Movies were ranked based on their similarity index.
+The movies with the highest similarity scores were identified.
+Top 5 Similar Movies
+
+For each movie, the top 5 most similar movies were retrieved and displayed.
+
+
