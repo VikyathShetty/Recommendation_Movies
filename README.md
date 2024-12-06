@@ -68,4 +68,22 @@ The top 5 similar movies are displayed on the web page, allowing the user to exp
 ![Another Image](https://github.com/VikyathShetty/Recommendation_Movies/blob/main/images/Screenshot%202024-12-06%20175643.png)
 
 
+## Skills Learned:
+
+### Data Preprocessing
+
+Gained hands-on experience in cleaning and transforming data for analysis, including text extraction and stop word removal.
+
+### Natural Language Processing (NLP)
+
+Learned how to apply techniques like Bag of Words (BoW) for text representation and perform similarity analysis using cosine similarity.
+
+### Machine Learning Techniques
+
+Applied machine learning algorithms like cosine similarity to compare and rank items based on their features.
+### Web Development with Flask
+
+Developed web applications using Flask to create a user-friendly interface for the movie recommendation system.
+
+
 
